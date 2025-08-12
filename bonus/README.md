@@ -1,4 +1,4 @@
-# Exercise 5 - Full Chip Design
+# Bonus Exercise - Full Chip Design
 
 
 > [!CAUTION]
